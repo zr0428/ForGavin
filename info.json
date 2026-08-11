@@ -1,12 +1,13 @@
 {
   "name": "ForGavin",
-  "version": "2.1.11",
+  "version": "2.1.12",
   "title": "Relaxed and Happy",
   "author": "Gavin1978",
-  "description": "Modify player attributes,obtain opening items,change pole range, beacon and roboport configuration. This mod is only for Gavin1978's own use.",
+  "homepage": "https://github.com/zr0428/ForGavin",
+  "description": "摸鱼（Relaxed and Happy）——一个「所有功能都可自由开关」的 Factorio 辅助模组：修改玩家属性、获取开局物品、调整电线杆/机器人平台/插件塔范围与配置、装备强化、轨道太阳能、自由传送、矿区筛选、火箭发射统计、随地泵、管道长度调整等。兼容 Space Age / Krastorio 2 / Space Exploration / Nullius。本模组仅限 Gavin1978 个人使用。",
   "contact": "zr0428ac@qq.com, QQ Group 939886893",
   "factorio_version": "2.1",
-  "dependencies": 
+  "dependencies":
   ["base >= 2.1.0",
     "(?) space-age",
     "(?) Krastorio2",
