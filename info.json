@@ -1,0 +1,16 @@
+{
+  "name": "ForGavin",
+  "version": "2.1.11",
+  "title": "Relaxed and Happy",
+  "author": "Gavin1978",
+  "description": "Modify player attributes,obtain opening items,change pole range, beacon and roboport configuration. This mod is only for Gavin1978's own use.",
+  "contact": "zr0428ac@qq.com, QQ Group 939886893",
+  "factorio_version": "2.1",
+  "dependencies": 
+  ["base >= 2.1.0",
+    "(?) space-age",
+    "(?) Krastorio2",
+    "(?) space-exploration",
+    "(?) nullius"
+  ]
+}

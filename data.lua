@@ -1,0 +1,2 @@
+-- ForGavin/data.lua
+-- 需要兼容其他模组原型的修改统一在 data-final-fixes.lua 中应用。
